@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { ChevronDown, ChevronUp, Toggle2 } from 'lucide-react'
+import { ChevronDown, ChevronUp } from 'lucide-react'
 import Card from '../components/ui/Card'
 import Badge from '../components/ui/Badge'
 import { reglas } from '../data/reglas'

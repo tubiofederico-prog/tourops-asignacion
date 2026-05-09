@@ -9,7 +9,7 @@ import {
   Zap,
   ClipboardList,
   RefreshCw,
-  Plugs
+  Power
 } from 'lucide-react'
 
 const menuItems = [
@@ -21,7 +21,7 @@ const menuItems = [
   { path: '/algoritmo', icon: Zap, label: 'Algoritmo' },
   { path: '/escala', icon: ClipboardList, label: 'Escala Operativa' },
   { path: '/mejora', icon: RefreshCw, label: 'Ajuste y Mejora' },
-  { path: '/integraciones', icon: Plugs, label: 'Integraciones' }
+  { path: '/integraciones', icon: Power, label: 'Integraciones' }
 ]
 
 export default function Sidebar() {
